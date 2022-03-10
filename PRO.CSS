@@ -1,0 +1,26 @@
+.row h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: -3rem;
+    right: 0;
+    bottom: -5rem;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;   
+
+}
+.name h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: black;
+    font-size: 40px;
+    font-weight: 900; 
+    margin-top: 10%;  
+
+}

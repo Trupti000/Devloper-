@@ -1,0 +1,31 @@
+.roww h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: -3rem;
+    right: 0;
+    bottom: -5rem;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;   
+
+}
+
+.titel h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 50px; 
+}
+
+.card:hover{
+    background-color: rgba(128, 128, 128, 0.227);
+
+}
+.card{
+    margin-left: 7%;
+}

@@ -1,0 +1,43 @@
+.roww h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: -4rem;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;   
+
+}
+.roww h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: 0;
+    right: 0;
+    bottom: -10rem;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 20px;   
+
+}
+.roww h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: 0;
+    right: 0;
+    bottom: -6rem;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 20px;   
+
+}

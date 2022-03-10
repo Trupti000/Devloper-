@@ -1,0 +1,63 @@
+
+.roww h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: 0;
+    right: 0;
+    bottom: -5rem;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+       
+
+}
+
+.row a{
+    text-decoration: none;
+    color: black;
+}
+
+.card:hover{
+    background-color: rgba(128, 128, 128, 0.356);
+
+
+}
+.card{
+    font-size: 15px;
+    font-weight: 900;
+    margin-left: 5%;
+    margin-bottom: 2rem;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Concert One', cursive;
+    font-family: 'Cookie', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Redressed', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.card-head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 50px; 
+    padding: 10px;
+
+}

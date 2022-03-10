@@ -1,0 +1,57 @@
+.row h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: -3rem;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;   
+
+}
+.row img{
+    width: 100%;
+    height: 50%;
+}
+
+.row h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: 0;
+    right: 0;
+    bottom: -5rem;
+    left: 0;
+    position: absolute;
+    color: white;
+    font-size: 50px;   
+}
+.row1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card h2{
+    font-size: 40px;
+    font-weight: 900;
+}
+.title h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 50px;
+    font-weight: 900;
+
+}
+
